@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cau123 cua branch ma thoi
+=======
+cau123 cua main va branch
+>>>>>>> main
